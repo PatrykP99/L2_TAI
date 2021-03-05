@@ -1,3 +1,7 @@
 body {
     background-color: lightpink;
 }
+
+ul li {
+    display: inline;
+}
