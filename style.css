@@ -16,3 +16,8 @@ ul li {
     flex-direction: row;
     justify-content: center;
 }
+
+.navbar {
+    display: flex;
+    margin-left: 20px;
+}
